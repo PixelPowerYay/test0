@@ -126,7 +126,7 @@ def runGame():
 				return False
 			
 			if move == "win":
-				print('You Won!')
+				print('You won!')
 				continue
 			
 			if len(move) != 2:
